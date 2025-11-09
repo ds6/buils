@@ -12,5 +12,10 @@ All rights remain reserved to the original maintainers who keep Baileys active.
 You can visit their official repositories here:
 
 - **WhiskeySockets**: https://github.com/WhiskeySockets/Baileys/  
-- **PurpShell**: https://github.com/purpshell  
+- **PurpShell**: https://github.com/purpshell   
 - **Baileys Original (adiwajshing)**: (removed)
+
+If you are using pre-NAMI builds or older Baileys versions adapted for NAMI, it is strongly recommended that you create your own forks. These older versions will be removed within **3 days**.
+
+**Bails**: https://github.com/ds6/bails/  
+**Meta**: https://github.com/ds6/meta/
